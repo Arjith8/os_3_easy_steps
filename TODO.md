@@ -1,0 +1,1 @@
+- [] need to implement red-black tree again my current one is flawed pro max it seems but cant seem to get where and why
